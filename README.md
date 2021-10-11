@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded system development
 - 🌱 I’m currently learning socket.io
 - 💞️ 
-- 📫 How to reach me ...
+- 📫 How to reach me: brucejs777@yahoo.com
 
 <!---
 brucejs777/brucejs777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
